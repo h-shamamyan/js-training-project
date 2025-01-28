@@ -1,2 +1,2 @@
-console.log("test")
-const age = 15
+console.log("test");
+const age = 15;
